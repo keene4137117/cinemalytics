@@ -1,2 +1,2 @@
-HackIllinois2024 Project
-https://devpost.com/software/cinemalaytics
+HackIllinois2024
+[https://devpost.com/software/cinemalaytics](https://devpost.com/software/cinemalaytics)
